@@ -48,8 +48,8 @@ I occasionally document my learning through **technical reports, architecture wa
 * Serverless architecture patterns
 * Practical GenAI use cases (not hype-driven demos)
 
-Medium: https://medium.com/@aliamirk
-LinkedIn: https://www.linkedin.com/in/aliamirk/
+- Medium: https://medium.com/@aliamirk
+- LinkedIn: https://www.linkedin.com/in/aliamirk/
 
 More content and repositories are added as I continue building.
 
