@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ali
+# Muhammad Ali
 
 **Cloud Engineer & Applied AI/Backend Developer**
 
@@ -51,7 +51,7 @@ I care about the same things whether I'm shipping infra or a model: does it hold
 |---|---|
 | [Vapor](https://github.com/aliamirk/vapor-aws-cost-auditor) | Open-source AWS cost auditor — parallel service scanning with LangGraph + GPT-4o-mini, severity-tagged reports |
 | EKS + Istio Service Mesh | Production-grade zero-trust networking on Kubernetes, Terraform, GitOps, canary traffic |
-| Dr. Asif Clinic Platform | gRPC microservices on EKS with an SQS event backbone and mTLS-enforced mesh |
+| Clinic Platform | gRPC microservices on EKS with an SQS event backbone and mTLS-enforced mesh |
 | LLM Serving on EKS | GPU-backed inference for self-hosted open-source LLMs |
 | Factory CV Pipeline | YOLOv8/BoT-SORT detection and tracking for real-time box/sack counting |
 | Sign Language Recognition | MediaPipe landmarks + classifier for real-time sign detection, mobile-bound |
