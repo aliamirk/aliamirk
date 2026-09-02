@@ -28,20 +28,10 @@ I care about the same things whether I'm shipping infra or a model: does it hold
 
 <br>
 
-<div align="center">
-<img src="./assets/skills.svg" width="640" alt="Skill focus areas" />
-</div>
-
-<br>
-
 ## Currently building
 
-- **EKS + Istio + Terraform service mesh** — custom VPC, zero-trust mTLS, canary deployments, GitOps via ArgoCD
-- **Dr. Asif Clinic Platform** — microservices rebuild of a clinic backend on EKS: patient, appointment, inventory, billing, notification, and auth services talking over gRPC behind a single REST-facing api-gateway, async events over SQS, mTLS enforced across the mesh
 - **LLM serving on EKS** — self-hosted open-source LLMs (Llama, Mistral) on GPU nodes, EKS-optimized GPU AMI, g5.xlarge instances, FSx for Lustre for model weights, warm-pool inference
 - **Real-time sign language recognition** — MediaPipe hand landmarks feeding a lightweight classifier, targeting 100 to 150 custom signs, built for mobile camera streaming
-- **YOLOv8 + BoT-SORT factory CV pipeline** — real-time object counting on CCTV, GPU inference (Tesla T4), async scaling
-- **Vapor** — open-source CLI that audits AWS costs in parallel across services using LangGraph and GPT-4o-mini
 
 <br>
 
