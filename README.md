@@ -29,17 +29,14 @@ I care about the same things whether I'm shipping infra or a model: does it hold
 ![Istio](https://img.shields.io/badge/Istio-000000?style=flat-square&logo=istio&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-000000?style=flat-square&logo=argo&logoColor=white)
- 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=flat-square)
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white)
- 
 ![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
- 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=flat-square)
 ![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square)
