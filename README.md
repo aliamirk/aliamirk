@@ -1,63 +1,75 @@
-# Hi, I'm Ali
+<div align="center">
 
-Cloud-focused **Software Engineer & AWS Cloud Engineer** with hands-on experience building **cloud-native systems, service mesh infrastructure, and applied AI/computer vision solutions**. My work sits at the intersection of **cloud infrastructure, backend engineering, and practical AI applications** — with roots in the AWS re/Start program and ~2 years of production experience since.
+# Ali
 
-I focus on **designing systems that actually run in production**, not just proof-of-concepts — from zero-trust Kubernetes networking to real-time computer vision pipelines on factory floors. I care about **security, observability, and cost-awareness** as much as I care about the feature working.
+**Cloud Engineer & Applied AI/Backend Developer**
 
----
+Cloud infrastructure, service mesh, and applied AI systems that run in production, not just in demos.
 
-## 🔧 Core Skills
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aliamirk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliamirk/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aliamirk)
 
-* **Cloud & Infrastructure**: AWS (EKS, EC2, Lambda, S3, VPC, IAM), Terraform, GitHub Actions CI/CD
-* **Kubernetes & Service Mesh**: Istio (mTLS, canary traffic splitting, circuit breaking), ArgoCD (App of Apps, ApplicationSets), Kustomize, Cluster Autoscaler, CSI drivers
-* **Backend & Systems**: Python, Java, C/C++, FastAPI, MongoDB, REST APIs, POSIX concurrency (pthreads, semaphores)
-* **Applied AI / Computer Vision**: YOLOv8 + BoT-SORT object tracking, LangGraph orchestration, GPT-4o-mini integrations, Amazon Bedrock & Rekognition
-* **Security & Monitoring**: IAM best practices, GuardDuty, Macie, CloudWatch, AWS Config, OIDC/Pod Identity
-* **Dev Practices**: Modular design, infrastructure-as-code, cost optimization, documentation-first mindset
+</div>
 
----
+<br>
 
-## 🧪 Current Focus
+## About
 
-* Building a **production-grade EKS + Istio + Terraform service mesh** — custom VPC, zero-trust mTLS networking, canary deployments, and GitOps with ArgoCD
-* Tuning a **YOLOv8 + BoT-SORT computer vision pipeline** for real-time factory CCTV object counting, deployed on GPU (Tesla T4) with async inference scaling
-* Maintaining **Vapor**, an open-source CLI tool that audits AWS costs in parallel across services using LangGraph and GPT-4o-mini
-* Running **FastAPI + MongoDB backend systems** in production — a factory gatepass management system and a medical clinic management platform
-* Deepening systems-level fundamentals: OS concurrency, database internals (ACID, concurrency control), and clean architectural patterns
+I'm an AWS Cloud Engineer with roots in the AWS re/Start program and about two years of production experience since. My work spans cloud infrastructure, backend engineering, and applied AI, usually where those three overlap: zero-trust Kubernetes networking, gRPC microservices, GPU-backed model serving, and computer vision pipelines running against real factory CCTV feeds.
 
----
+I care about the same things whether I'm shipping infra or a model: does it hold up in production, is it observable, and does it cost what it should.
 
-## 📌 Featured Projects
+<br>
 
-Selected repositories that reflect how I approach cloud engineering and applied AI:
+## Stack
 
-* **[Vapor](https://github.com/aliamirk/vapor-aws-cost-auditor)** – Open-source AWS cost auditor: parallel service scanning with LangGraph + GPT-4o-mini, severity-tagged optimization reports
-* **EKS + Istio Service Mesh** – Production-grade zero-trust networking on Kubernetes with Terraform, GitOps, and canary traffic management
-* **Factory CV Pipeline** – YOLOv8/BoT-SORT object detection and tracking for real-time CCTV box/sack counting
-* **Gatepass & Clinic Management Systems** – FastAPI + MongoDB backends deployed to production with search, analytics, and PDF generation
-* **Systems Programming** – Multithreaded C++17 task scheduler built on raw POSIX primitives, plus classical OS concurrency problems in C
+`AWS` `Kubernetes` `Istio` `Terraform` `ArgoCD` `Python` `Java` `C/C++` `gRPC` `FastAPI` `MongoDB` `PostgreSQL` `YOLOv8` `MediaPipe` `vLLM` `LangGraph`
 
-Each project is intentionally scoped, documented, and designed to explain both the **how** and the **why**.
+<br>
 
----
+<div align="center">
+<img src="./assets/skills.svg" width="640" alt="Skill focus areas" />
+</div>
 
-## ✍️ Writing & Learning in Public
+<br>
 
-I occasionally document my learning through **technical reports, architecture walkthroughs, and tutorials**, especially around:
+## Currently building
 
-* Kubernetes, service mesh, and zero-trust networking
-* Computer vision pipelines in production environments
-* Practical AI/LLM tooling (not hype-driven demos)
+- **EKS + Istio + Terraform service mesh** — custom VPC, zero-trust mTLS, canary deployments, GitOps via ArgoCD
+- **Dr. Asif Clinic Platform** — microservices rebuild of a clinic backend on EKS: patient, appointment, inventory, billing, notification, and auth services talking over gRPC behind a single REST-facing api-gateway, async events over SQS, mTLS enforced across the mesh
+- **LLM serving on EKS** — self-hosted open-source LLMs (Llama, Mistral) on GPU nodes, EKS-optimized GPU AMI, g5.xlarge instances, FSx for Lustre for model weights, warm-pool inference
+- **Real-time sign language recognition** — MediaPipe hand landmarks feeding a lightweight classifier, targeting 100 to 150 custom signs, built for mobile camera streaming
+- **YOLOv8 + BoT-SORT factory CV pipeline** — real-time object counting on CCTV, GPU inference (Tesla T4), async scaling
+- **Vapor** — open-source CLI that audits AWS costs in parallel across services using LangGraph and GPT-4o-mini
 
-- Medium: https://medium.com/@aliamirk
-- LinkedIn: https://www.linkedin.com/in/aliamirk/
+<br>
 
-More content and repositories are added as I continue building.
+## Featured projects
 
----
+| Project | What it is |
+|---|---|
+| [Vapor](https://github.com/aliamirk/vapor-aws-cost-auditor) | Open-source AWS cost auditor — parallel service scanning with LangGraph + GPT-4o-mini, severity-tagged reports |
+| EKS + Istio Service Mesh | Production-grade zero-trust networking on Kubernetes, Terraform, GitOps, canary traffic |
+| Dr. Asif Clinic Platform | gRPC microservices on EKS with an SQS event backbone and mTLS-enforced mesh |
+| LLM Serving on EKS | GPU-backed inference for self-hosted open-source LLMs |
+| Factory CV Pipeline | YOLOv8/BoT-SORT detection and tracking for real-time box/sack counting |
+| Sign Language Recognition | MediaPipe landmarks + classifier for real-time sign detection, mobile-bound |
+| Gatepass & Clinic Systems | FastAPI + MongoDB backends in production, with search, analytics, and PDF generation |
+| Systems Programming | Multithreaded C++17 task scheduler on raw POSIX primitives, classical OS concurrency problems in C |
 
-## 📫 Get in Touch
+<br>
 
-If you're interested in **Kubernetes/service mesh, cloud architecture, computer vision, or backend systems**, feel free to connect, open an issue, or explore the repos.
+## Writing
 
-> This profile reflects continuous learning and iteration.
+I write up what I build, mostly Kubernetes and service mesh, applied CV in production, and practical LLM tooling that isn't just a demo.
+
+→ [Medium](https://medium.com/@aliamirk)
+
+<br>
+
+## Get in touch
+
+Open to conversations on Kubernetes, service mesh, cloud architecture, computer vision, or backend systems. Feel free to connect, open an issue, or dig through the repos.
+
+</div>
