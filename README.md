@@ -37,26 +37,21 @@ I care about the same things whether I'm shipping infra or a model: does it hold
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=white)
   
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-![Boto3](https://img.shields.io/badge/Boto3-000000?style=flat-square)
   
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/GPT--4o--mini-000000?style=flat-square&logo=openai&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=flat-square)
-![BoT-SORT](https://img.shields.io/badge/BoT--SORT-000000?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=flat-square)
 ![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square)
   
@@ -64,7 +59,6 @@ I care about the same things whether I'm shipping infra or a model: does it hold
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&logoColor=white)
 ![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-000000?style=flat-square&logo=openid&logoColor=white)
 ![Zero Trust Networking](https://img.shields.io/badge/Zero%20Trust%20Networking-000000?style=flat-square)
-![HIPAA-Aligned Infra](https://img.shields.io/badge/HIPAA--Aligned%20Infra-000000?style=flat-square)
 ![IAM/RBAC](https://img.shields.io/badge/IAM%2FRBAC-000000?style=flat-square)
 
 <br>
