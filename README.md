@@ -2,7 +2,7 @@
 
 # Muhammad Ali
 
-**Cloud Engineer & Applied AI/Backend Developer**
+**Cloud-Native Engineer | Infrastructure, DevOps & Security**
 
 Cloud infrastructure, service mesh, and applied AI systems that run in production, not just in demos.
 
