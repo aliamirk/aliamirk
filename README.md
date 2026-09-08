@@ -16,7 +16,7 @@ Cloud infrastructure, service mesh, and applied AI systems that run in productio
 
 ## About
 
-I'm an AWS Cloud Engineer with roots in the AWS re/Start program and about two years of production experience since. My work spans cloud infrastructure, backend engineering, and applied AI, usually where those three overlap: zero-trust Kubernetes networking, gRPC microservices, GPU-backed model serving, and computer vision pipelines running against real factory CCTV feeds.
+I'm a Cloud and DevOps engineer with 2+ years of experience in cloud infrastructure, with recent work in DevSecOps and applied AI/ML. I build and operate distributed architectures across AWS and cloud-native tooling — cloud networking, zero-trust service meshes, supply-chain-secure delivery pipelines, cost optimization, and AI systems.
 
 I care about the same things whether I'm shipping infra or a model: does it hold up in production, is it observable, and does it cost what it should.
 
